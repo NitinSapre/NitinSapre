@@ -38,7 +38,6 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinsapre&show_icons=true&theme=onedark" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsapre&theme=onedark" height="160"/>
 </p>
 
