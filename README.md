@@ -1,30 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">Engineering Manager | Solution Architect | Distributed Systems | Platform Modernization</h3>
 
-Hi 👋 I'm Nitin Sapre  
+## 👋 About Me
 
-🚀 Engineering Manager & Solution Architect with 17+ years of experience  
-building and modernizing large-scale software platforms across Telecom,  
-Automotive, Construction Tech, and Enterprise Content Management.
+I'm **Nitin Sapre**, a software engineer with 17+ years of experience building and modernizing
+large-scale backend platforms.
 
-### What I do best:
-- Designing distributed systems & event-driven architectures  
-- Leading cross-functional engineering teams across geographies  
-- Driving platform modernization, observability, and technical standards  
-- Partnering with product & leadership to shape technology strategy
+### Tech Stack
 
-✨ Always curious about building scalable systems and high-performing teams.
+- **Java & Spring Boot** backend development  
+- **Microservices** and **event-driven architectures**  
+- Messaging systems like **Kafka** and **ActiveMQ**  
+- Cloud-native development on **AWS** and **Azure**  
+- **Docker**, **Kubernetes**, and CI/CD automation  
+- Databases: **PostgreSQL**, **Oracle**, **MySQL**, **Redis**  
+- Observability with **logging, monitoring, and availability engineering**
 
-### Key Contributions
-✅ Built and scaled an engineering team in India for Tribia  
-✅ Delivered Interaxo Insights: real-time analytics dashboards  
-✅ Enabled co-editing collaboration via Microsoft WOPI  
-✅ Developed Power BI connector for live reporting  
-✅ Integrated Keycloak for secure and flexible authentication  
-
-### Tech Stack:
-Java • Spring Boot • Kafka • Kubernetes • AWS • Azure  
-PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions  
+I enjoy working on scalable systems, platform engineering and architecture-focused projects.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -37,7 +29,7 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsapre&theme=onedark" height="160"/>
 </p>
 
