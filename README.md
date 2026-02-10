@@ -88,10 +88,10 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
       alt="github actions" width="40" height="40"/>
   </a>
 
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg"
-      alt="sonarqube" width="40" height="40"/>
-  </a>
+<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
+    alt="sonarqube" width="40" height="40"/>
+</a>
 
   <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -123,9 +123,6 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitinsapre&theme=darkhub&no-frame=true&row=1&column=5"/>
-</p>
 
 
 
