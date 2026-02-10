@@ -35,6 +35,13 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nitin-sapre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-sapre/" height="30" width="40" /></a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinsapre&show_icons=true&theme=onedark" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsapre&theme=onedark" height="160"/>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -121,8 +128,3 @@ PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions
   </a>
 
 </p>
-
-
-
-
-
