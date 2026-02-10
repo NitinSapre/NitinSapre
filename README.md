@@ -26,14 +26,14 @@ Automotive, Construction Tech, and Enterprise Content Management.
 Java • Spring Boot • Kafka • Kubernetes • AWS • Azure  
 PostgreSQL • Redis • Elasticsearch • CI/CD • GitHub Actions  
 
-📫 Reach me: saprenitin@gmail.com  
-🌐 Portfolio: https://nitinsapre.is-a.dev  
-
-
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitin-sapre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-sapre/" height="30" width="40" /></a>
+  🔗 <a href="https://www.linkedin.com/in/nitin-sapre/">LinkedIn</a> •
+  📫 <a href="mailto:saprenitin@gmail.com">saprenitin@gmail.com</a> •
+  🌐 <a href="https://nitinsapre.is-a.dev/">Portfolio</a>
 </p>
+
 
 ## 📊 GitHub Stats
 
