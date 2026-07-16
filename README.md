@@ -1,121 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Solution Architect | Distributed Systems | Platform Modernization</h3>
+# Hi, I'm Nitin Sapre 👋
 
-## 👋 About Me
+**Senior Solution Architect** | 17+ years in Technology | TOGAF® Certified
 
-I'm **Nitin Sapre**, a software engineer with 17+ years of experience building and modernizing
-large-scale backend platforms.
+I design and modernize large-scale distributed systems across Telecom, Automotive, and Construction domains — with deep hands-on expertise in microservices, event-driven architecture, and cloud-native platforms.
 
-### Tech Stack
+- 🏗️ Currently: Senior Solution Architect @ Addnode India, driving architecture and technical strategy for **Interaxo**
+- 🌍 Based in Pune, India
+- 🚀 Building and scaling engineering teams, setting technical standards, and leading architecture governance
+- 🤖 Exploring AI-assisted engineering — local LLM assistants, agentic workflows, and AI-first IDEs
+- 📫 Reach me: saprenitin@gmail.com
+- 🔗 [Portfolio](https://nitinsapre.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/nitin-sapre/)
 
-- **Java & Spring Boot** backend development  
-- **Microservices** and **event-driven architectures**  
-- Messaging systems like **Kafka** and **ActiveMQ**  
-- Cloud-native development on **AWS** and **Azure**  
-- **Docker**, **Kubernetes**, and CI/CD automation  
-- Databases: **PostgreSQL**, **Oracle**, **MySQL**, **Redis**  
-- Observability with **logging, monitoring, and availability engineering**
+---
 
-I enjoy working on scalable systems, platform engineering and architecture-focused projects.
+### 🛠️ Core Stack
 
-<h3 align="left">Connect with me:</h3>
+**Languages & Frameworks:** Java, Spring Boot
+**Architecture:** Microservices, Event-Driven Systems, REST APIs
+**Cloud:** AWS, Microsoft Azure
+**DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, SonarQube
+**Data:** PostgreSQL, Oracle, MySQL, Redis, Elasticsearch
+**Messaging:** Kafka, ActiveMQ
 
-<p align="left">
-  🔗 <a href="https://www.linkedin.com/in/nitin-sapre/">LinkedIn</a> •
-  📫 <a href="mailto:saprenitin@gmail.com">saprenitin@gmail.com</a> •
-  🌐 <a href="https://nitinsapre.is-a.dev/">Portfolio</a>
+---
+
+### 🤖 AI Projects
+
+- Local LLM-based assistant integrated with Atlassian MCP APIs (OpenWebUI front-end) for workflow automation
+- N8N workflow that summarizes meetings and posts to team channels
+- AI enabler docs (`Agents.md`, `contributing.md`, `instructions.md`) to support AI agent adoption across engineering teams
+- [MyBookNest](https://mybooknest.lovable.app/) — AI-assisted personal app built with Lovable
+- Daily use of GitHub Copilot and Claude to accelerate development and support architectural decisions
+- Experimenting with AI-first IDEs like Cursor and Antigravity
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NitinSapre&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSapre&layout=compact&hide_border=true" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsapre&theme=onedark" height="160"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSapre&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws" width="40" height="40"/>
-  </a>
-
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure" width="40" height="40"/>
-  </a>
-
-  <!-- Backend -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java" width="40" height="40"/>
-  </a>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring boot" width="40" height="40"/>
-  </a>
-
-  <!-- Messaging -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
-      alt="kafka" width="40" height="40"/>
-  </a>
-
-  <a href="https://activemq.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_activemq/apache_activemq-icon.svg"
-      alt="activemq" width="40" height="40"/>
-  </a>
-
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40"/>
-  </a>
-
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"
-      alt="github actions" width="40" height="40"/>
-  </a>
-
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
-    alt="sonarqube" width="40" height="40"/>
-</a>
-
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis" width="40" height="40"/>
-  </a>
-
-  <!-- Search + Observability -->
-  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
-      alt="elasticsearch" width="40" height="40"/>
-  </a>
-
-</p>
+*B.Tech, College of Engineering Pune (COEP) · TOGAF® Certified · Microsoft Azure Fundamentals (AZ-900)*
