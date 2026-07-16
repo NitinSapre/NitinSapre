@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Engineering Manager | Solution Architect | Distributed Systems | Platform Modernization</h3>
+<h3 align="center">Solution Architect | Distributed Systems | Platform Modernization</h3>
 
 ## 👋 About Me
 
